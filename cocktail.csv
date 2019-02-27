@@ -1,0 +1,690 @@
+﻿Alcohol Percentage,Alcoholic__,All Ingredients,amount,Alcoholic,pure alcohol,Nonalcoholic,Number of Records,Ingredient Index,Ingredient Name,Sort of drink,Cocktail Name,Extra,Garnish,Glass,Index,Ingredient 1 #,Ingredient 2 #,Ingredient 3 #,Ingredient 4 #,Ingredient 5 #,Ingredient 6 #,Ingredient 7 #,Ingredient 8 #,Ingredient 9 #,Method
+0.4,TRUE,Cognac,3,3,1.2,,1,Ingredient 1,Cognac,After Dinner Cocktail,Alexander,nutmeg,,cocktail,0,3,3,3,,,,,,,shake & strain
+0.25,TRUE,creme de Cacao,3,3,0.75,,1,Ingredient 2,Creme de Cacao,After Dinner Cocktail,Alexander,nutmeg,,cocktail,0,3,3,3,,,,,,,shake & strain
+0,FALSE,Fresh Cream,3,,0,3,1,Ingredient 3,Fresh Cream,After Dinner Cocktail,Alexander,nutmeg,,cocktail,0,3,3,3,,,,,,,shake & strain
+0.15,TRUE,Campari,3,3,0.45,,1,Ingredient 1,Campari,Before Dinner Cocktail,Americano,,half orange slice,old-fashioned,1,3,3,,,,,,,,mix with ice
+0.14,TRUE,Red Vermouth,3,3,0.42,,1,Ingredient 2,Red Vermouth,Before Dinner Cocktail,Americano,,half orange slice,old-fashioned,1,3,3,,,,,,,,mix with ice
+0,FALSE,splash soda,,,,,1,Ingredient 3,Splash soda,Before Dinner Cocktail,Americano,,half orange slice,old-fashioned,1,3,3,,,,,,,,mix with ice
+0.4,TRUE,Gin,3,3,1.2,,1,Ingredient 1,Gin,All Day Cocktail,Angel Face,,,cocktail,2,3,3,3,,,,,,,shake & strain
+0.4,TRUE,Apricot Brandy,3,3,1.2,,1,Ingredient 2,Apricot Brandy,All Day Cocktail,Angel Face,,,cocktail,2,3,3,3,,,,,,,shake & strain
+0.4,TRUE,Calvados,3,3,1.2,,1,Ingredient 3,Calvados,All Day Cocktail,Angel Face,,,cocktail,2,3,3,3,,,,,,,shake & strain
+0.4,TRUE,Gin,4.5,4.5,1.8,,1,Ingredient 1,Gin,All Day Cocktail,Aviation,,,cocktail,3,4.5,1.5,1.5,,,,,,,shake & strain
+0.32,TRUE,Maraschino,1.5,1.5,0.48,,1,Ingredient 2,Maraschino,All Day Cocktail,Aviation,,,cocktail,3,4.5,1.5,1.5,,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 3,Fresh lemon juice,All Day Cocktail,Aviation,,,cocktail,3,4.5,1.5,1.5,,,,,,,shake & strain
+0.2,TRUE,Kahlúa,2,2,0.4,,1,Ingredient 1,Kahlúa,After Dinner Cocktail,B52,straw on side plate,,shot,4,2,2,2,,,,,,,Layer ingredients
+0.17,TRUE,Bailey's Irish Cream,2,2,0.34,,1,Ingredient 2,Bailey's Irish Cream,After Dinner Cocktail,B52,straw on side plate,,shot,4,2,2,2,,,,,,,Layer ingredients
+0.4,TRUE,"Grand Marnier (Flame, serve while burning)",2,2,0.8,,1,Ingredient 3,"Grand Marnier (Flame, serve while burning)",After Dinner Cocktail,B52,straw on side plate,,shot,4,2,2,2,,,,,,,Layer ingredients
+0.4,TRUE,Bacardi Rum White,4.5,4.5,1.8,,1,Ingredient 1,Bacardi Rum White,Before Dinner Cocktail,Bacardi,,,cocktail,5,4.5,2,1,,,,,,,shake & strain
+0,FALSE,Fresh lime juice,2,,0,2,1,Ingredient 2,Fresh lime juice,Before Dinner Cocktail,Bacardi,,,cocktail,5,4.5,2,1,,,,,,,shake & strain
+0,FALSE,Grenadine,1,,0,1,1,Ingredient 3,Grenadine,Before Dinner Cocktail,Bacardi,,,cocktail,5,4.5,2,1,,,,,,,shake & strain
+0.4,TRUE,Gold rum,4.5,4.5,1.8,,1,Ingredient 1,Gold rum,Sparkling Cocktail,Barracuda,,,cocktail,6,4.5,1.5,6,1,,,,,,
+0.3,TRUE,Galliano,1.5,1.5,0.45,,1,Ingredient 2,Galliano,Sparkling Cocktail,Barracuda,,,cocktail,6,4.5,1.5,6,1,,,,,,
+0,FALSE,Pineapple juice,6,,0,6,1,Ingredient 3,Pineapple juice,Sparkling Cocktail,Barracuda,,,cocktail,6,4.5,1.5,6,1,,,,,,
+0.14,TRUE,Prosecco,10,10,1.4,,1,Ingredient 1,Prosecco,Sparkling Cocktail,Bellini,,,wine glass,7,10,5,,,,,,,,stir
+0,FALSE,Fresh peach puree,5,,0,5,1,Ingredient 2,Fresh peach puree,Sparkling Cocktail,Bellini,,,wine glass,7,10,5,,,,,,,,stir
+0.4,TRUE,White Rum,3,3,1.2,,1,Ingredient 1,White Rum,All Day Cocktail,Between The Sheets,,,cocktail,8,3,3,3,2,,,,,,shake & strain
+0.4,TRUE,Cognac,3,3,1.2,,1,Ingredient 2,Cognac,All Day Cocktail,Between The Sheets,,,cocktail,8,3,3,3,2,,,,,,shake & strain
+0.4,TRUE,Vodka,5,5,2,,1,Ingredient 1,Vodka,After Dinner Cocktail,Black Russian,for White Russian: float fresh cream on the top and stir gently,,old-fashioned,9,5,2,,,,,,,,stir
+0.2,TRUE,Coffee liqueur,2,2,0.4,,1,Ingredient 2,Coffee liqueur,After Dinner Cocktail,Black Russian,for White Russian: float fresh cream on the top and stir gently,,old-fashioned,9,5,2,,,,,,,,stir
+0.4,TRUE,Vodka,4.5,4.5,1.8,,1,Ingredient 1,Vodka,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+0,FALSE,Tomato juice,9,,0,9,1,Ingredient 2,Tomato juice,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+0.4,TRUE,Gin,4,4,1.6,,1,Ingredient 1,Gin,All Day Cocktail,Bramble,,"lemon slice, and two blackberries",rock,11,4,1.5,1,1.5,,,,,,stir
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 2,Fresh lemon juice,All Day Cocktail,Bramble,,"lemon slice, and two blackberries",rock,11,4,1.5,1,1.5,,,,,,stir
+0.4,TRUE,Cachaca,0.5,0.5,0.2,,1,Ingredient 1,Cachaca,All Day Cocktail,Caipirinha,,,old-fashioned,12,0.5,2,0.5,,,,,,,muddle
+0,FALSE,teaspoon sugar,2,,0,2,1,Ingredient 2,Teaspoon sugar,All Day Cocktail,Caipirinha,,,old-fashioned,12,0.5,2,0.5,,,,,,,muddle
+0.4,TRUE,Old Tom Gin,4,4,1.6,,1,Ingredient 1,Old Tom Gin,All Day Cocktail,Casino,,lemon twist and a maraschino cherry,cocktail,13,4,1,1,1,,,,,,shake & strain
+0.32,TRUE,Maraschino,1,1,0.32,,1,Ingredient 2,Maraschino,All Day Cocktail,Casino,,lemon twist and a maraschino cherry,cocktail,13,4,1,1,1,,,,,,shake & strain
+0.14,TRUE,Chilled Champagne,9,9,1.26,,1,Ingredient 1,Chilled Champagne,Sparkling Cocktail,Champagne Cocktail,,orange slice and maraschino cherry.,champagne flute,14,9,1,2,1,,,,,,
+0.4,TRUE,Cognac,1,1,0.4,,1,Ingredient 2,Cognac,Sparkling Cocktail,Champagne Cocktail,,orange slice and maraschino cherry.,champagne flute,14,9,1,2,1,,,,,,
+0.4,TRUE,Gin,4.5,4.5,1.8,,1,Ingredient 1,Gin,All Day Cocktail,Clover Club,,,cocktail,15,4.5,1.5,1.5,,,,,,,shake & strain
+0,FALSE,Raspberry syrup,1.5,,0,1.5,1,Ingredient 2,Raspberry syrup,All Day Cocktail,Clover Club,,,cocktail,15,4.5,1.5,1.5,,,,,,,shake & strain
+0.4,TRUE,Citron Vodka,4,4,1.6,,1,Ingredient 1,Citron Vodka,All Day Cocktail,Cosmopolitan,,lime slice,cocktail (large),16,4,1.5,1.5,3,,,,,,shake & strain
+0.4,TRUE,Cointreau,1.5,1.5,0.6,,1,Ingredient 2,Cointreau,All Day Cocktail,Cosmopolitan,,lime slice,cocktail (large),16,4,1.5,1.5,3,,,,,,shake & strain
+0.4,TRUE,White Rum,5,5,2,,1,Ingredient 1,White Rum,Longdrink,Cuba Libre,,lime wedge,highball,17,5,12,1,,,,,,,
+0,FALSE,Cola,12,,0,12,1,Ingredient 2,Cola,Longdrink,Cuba Libre,,lime wedge,highball,17,5,12,1,,,,,,,
+0.4,TRUE,White Rum,4.5,4.5,1.8,,1,Ingredient 1,White Rum,Before Dinner Cocktail,Daiquiri,,,cocktail,18,4.5,2.5,1.5,,,,,,,shake & strain
+0,FALSE,Fresh lime juice,2.5,,0,2.5,1,Ingredient 2,Fresh lime juice,Before Dinner Cocktail,Daiquiri,,,cocktail,18,4.5,2.5,1.5,,,,,,,shake & strain
+0.4,TRUE,Dark Rum,6,6,2.4,,1,Ingredient 1,Dark Rum,Longdrink,Dark ‘N' Stormy,,lime wedge,highball,19,6,10,,,,,,,,Pour
+0,FALSE,Ginger Beer,10,,0,10,1,Ingredient 2,Ginger Beer,Longdrink,Dark ‘N' Stormy,,lime wedge,highball,19,6,10,,,,,,,,Pour
+0.4,TRUE,Gin,6,6,2.4,,1,Ingredient 1,Gin,All Day Cocktail,Derby,,fresh mint leaves,cocktail,20,6,2,2,,,,,,,stir & strain
+0,FALSE,Drops Peach Bitters,2,,0,2,1,Ingredient 2,Drops Peach Bitters,All Day Cocktail,Derby,,fresh mint leaves,cocktail,20,6,2,2,,,,,,,stir & strain
+0.4,TRUE,Vodka,6,6,2.4,,1,Ingredient 1,Vodka,Before Dinner Cocktail,Dirty Martini,,green olive,Martini glass,21,6,1,1,,,,,,,stir & strain
+0.14,TRUE,Dry Vermouth,1,1,0.14,,1,Ingredient 2,Dry Vermouth,Before Dinner Cocktail,Dirty Martini,,green olive,Martini glass,21,6,1,1,,,,,,,stir & strain
+0.4,TRUE,Gin,6,6,2.4,,1,Ingredient 1,Gin,Before Dinner Cocktail,Dry Martini,Squeeze oil from lemon peel onto the drink,olive,Martini glass,22,6,1,,,,,,,,stir & strain
+0.14,TRUE,Dry Vermouth,1,1,0.14,,1,Ingredient 2,Dry Vermouth,Before Dinner Cocktail,Dry Martini,Squeeze oil from lemon peel onto the drink,olive,Martini glass,22,6,1,,,,,,,,stir & strain
+0.4,TRUE,Vodka,5,5,2,,1,Ingredient 1,Vodka,After Dinner Cocktail,Espresso Martini,,,cocktail,23,5,1,,1,,,,,,shake & strain
+0.2,TRUE,Kahlúa,1,1,0.2,,1,Ingredient 2,Kahlúa,After Dinner Cocktail,Espresso Martini,,,cocktail,23,5,1,,1,,,,,,shake & strain
+0.4,TRUE,Gin,3,3,1.2,,1,Ingredient 1,Gin,Sparkling Cocktail,French 75,,,champagne flute,24,3,1.5,2,6,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 2,Fresh lemon juice,Sparkling Cocktail,French 75,,,champagne flute,24,3,1.5,2,6,,,,,,shake & strain
+0.4,TRUE,Cognac,3.5,3.5,1.4,,1,Ingredient 1,Cognac,After Dinner Cocktail,French Connection,,,old-fashioned,25,3.5,3.5,,,,,,,,stir
+0.28,TRUE,DiSaronno,3.5,3.5,0.98,,1,Ingredient 2,DiSaronno,After Dinner Cocktail,French Connection,,,old-fashioned,25,3.5,3.5,,,,,,,,stir
+0.4,TRUE,Vodka,4.5,4.5,1.8,,1,Ingredient 1,Vodka,Before Dinner Cocktail,French Martini,,Squeeze oil from lemon peel,cocktail,26,4.5,1.5,1.5,,,,,,,stir & strain
+0.14,TRUE,Raspberry liqueur,1.5,1.5,0.21,,1,Ingredient 2,Raspberry liqueur,Before Dinner Cocktail,French Martini,,Squeeze oil from lemon peel,cocktail,26,4.5,1.5,1.5,,,,,,,stir & strain
+0.4,TRUE,Gin,4.5,4.5,1.8,,1,Ingredient 1,Gin,Longdrink,Gin Fizz,,lemon slice,tumbler,27,4.5,3,1,8,,,,,,Shake
+0,FALSE,Fresh lemon juice,3,,0,3,1,Ingredient 2,Fresh lemon juice,Longdrink,Gin Fizz,,lemon slice,tumbler,27,4.5,3,1,8,,,,,,Shake
+0.4,TRUE,Scotch,3.5,3.5,1.4,,1,Ingredient 1,Scotch,After Dinner Cocktail,God Father,,,old-fashioned,28,3.5,3.5,,,,,,,,stir
+0.28,TRUE,DiSaronno,3.5,3.5,0.98,,1,Ingredient 2,DiSaronno,After Dinner Cocktail,God Father,,,old-fashioned,28,3.5,3.5,,,,,,,,stir
+0.4,TRUE,Vodka,3.5,3.5,1.4,,1,Ingredient 1,Vodka,After Dinner Cocktail,God Mother,,,old-fashioned,29,3.5,3.5,,,,,,,,stir
+0.28,TRUE,DiSaronno,3.5,3.5,0.98,,1,Ingredient 2,DiSaronno,After Dinner Cocktail,God Mother,,,old-fashioned,29,3.5,3.5,,,,,,,,stir
+0.3,TRUE,Galliano,2,2,0.6,,1,Ingredient 1,Galliano,After Dinner Cocktail,Golden Dream,,,cocktail,30,2,2,2,1,,,,,,shake & strain
+0.2,TRUE,Triple Sec,2,2,0.4,,1,Ingredient 2,Triple Sec,After Dinner Cocktail,Golden Dream,,,cocktail,30,2,2,2,1,,,,,,shake & strain
+0.25,TRUE,Créme de cacao (white),3,3,0.75,,1,Ingredient 1,Créme de cacao (white),After Dinner Cocktail,Grasshopper,,,cocktail,31,3,3,,,,,,,,shake & strain
+0.25,FALSE,Créme de menthe (green),3,,0.75,3,1,Ingredient 2,Créme de menthe (green),After Dinner Cocktail,Grasshopper,,,cocktail,31,3,3,,,,,,,,shake & strain
+0.4,TRUE,Vodka,4.5,4.5,1.8,,1,Ingredient 1,Vodka,All Day Cocktail,Harvey Wallbanger,,orange slices and cherry,highball,32,4.5,1.5,9,,,,,,,stir
+0.3,TRUE,Galliano (to float on drink),1.5,1.5,0.45,,1,Ingredient 2,Galliano (to float on drink),All Day Cocktail,Harvey Wallbanger,,orange slices and cherry,highball,32,4.5,1.5,9,,,,,,,stir
+0.4,TRUE,White Rum,6,6,2.4,,1,Ingredient 1,White Rum,All Day Cocktail,Hemingway Special,,,double cocktail,33,6,4,1.5,1.5,,,,,,shake & strain
+0,FALSE,Grapefruit juice,4,,0,4,1,Ingredient 2,Grapefruit juice,All Day Cocktail,Hemingway Special,,,double cocktail,33,6,4,1.5,1.5,,,,,,shake & strain
+0.4,TRUE,Cognac,4,4,1.6,,1,Ingredient 1,Cognac,Longdrink,Horse’s Neck,add dashes of Angostura bitters,rind of one lemon spiral,highball,34,4,12,,,,,,,,stir
+0,FALSE,Ginger Ale,12,,0,12,1,Ingredient 2,Ginger Ale,Longdrink,Horse’s Neck,add dashes of Angostura bitters,rind of one lemon spiral,highball,34,4,12,,,,,,,,stir
+0.4,TRUE,Irish whiskey (heat up),4,4,1.6,,1,Ingredient 1,Irish whiskey (heat up),Hot Drink,Irish Coffee,,,coffee mug,35,4,9,3,1,,,,,,warm & pour
+0,FALSE,Hot coffee,9,,0,9,1,Ingredient 2,Hot coffee,Hot Drink,Irish Coffee,,,coffee mug,35,4,9,3,1,,,,,,warm & pour
+0.4,TRUE,Gin,4.5,4.5,1.8,,1,Ingredient 1,Gin,Longdrink,John Collins,dash of Angostura bitters,lemon slice and maraschino cherry,highball glass,36,4.5,3,1.5,6,,,,,,stir
+0,FALSE,Fresh lemon juice,3,,0,3,1,Ingredient 2,Fresh lemon juice,Longdrink,John Collins,dash of Angostura bitters,lemon slice and maraschino cherry,highball glass,36,4.5,3,1.5,6,,,,,,stir
+0.4,TRUE,Vodka,3,3,1.2,,1,Ingredient 1,Vodka,All Day Cocktail,Kamikaze,,,cocktail,37,3,3,3,,,,,,,shake & strain
+0.2,TRUE,Triple Sec,3,3,0.6,,1,Ingredient 2,Triple Sec,All Day Cocktail,Kamikaze,,,cocktail,37,3,3,3,,,,,,,shake & strain
+0.14,TRUE,Dry White Wine,9,9,1.26,,1,Ingredient 1,Dry white wine,Before Dinner Cocktail,Kir,For Kir Royal: Use champagne instead of white wine,,champagne glass,38,9,1,,,,,,,,Pour
+0.2,TRUE,Créme de Cassis,1,1,0.2,,1,Ingredient 2,Créme de Cassis,Before Dinner Cocktail,Kir,For Kir Royal: Use champagne instead of white wine,,champagne glass,38,9,1,,,,,,,,Pour
+0.4,TRUE,Citron Vodka,2.5,2.5,1,,1,Ingredient 1,Citron Vodka,All Day Cocktail,Lemon Drop Martini,glass rimmed with suga,slice of lemon,cocktail,39,2.5,2,1.5,,,,,,,shake & strain
+0.2,TRUE,Triple Sec,2,2,0.4,,1,Ingredient 2,Triple Sec,All Day Cocktail,Lemon Drop Martini,glass rimmed with suga,slice of lemon,cocktail,39,2.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,Tequila,1.5,1.5,0.6,,1,Ingredient 1,Tequila,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+0.4,TRUE,Vodka,1.5,1.5,0.6,,1,Ingredient 2,Vodka,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+0.4,TRUE,White Rum,4,4,1.6,,1,Ingredient 1,White Rum,Longdrink,Mai-Tai,Serve with straw.,"pineapple spear, mint leaves and lime peel",highball,41,4,2,1.5,1.5,1,,,,,shake & strain
+0.4,TRUE,Dark Rum,2,2,0.8,,1,Ingredient 2,Dark Rum,Longdrink,Mai-Tai,Serve with straw.,"pineapple spear, mint leaves and lime peel",highball,41,4,2,1.5,1.5,1,,,,,shake & strain
+0.4,TRUE,Rye Whiskey,5,5,2,,1,Ingredient 1,Rye Whiskey,Before Dinner Cocktail,Manhattan,,cocktail cherry,cocktail,42,5,2,1,,,,,,,shake & strain
+0.14,TRUE,Red Vermouth,2,2,0.28,,1,Ingredient 2,Red Vermouth,Before Dinner Cocktail,Manhattan,,cocktail cherry,cocktail,42,5,2,1,,,,,,,shake & strain
+0.4,TRUE,Tequila,3.5,3.5,1.4,,1,Ingredient 1,Tequila,All Day Cocktail,Margarita,glass rimmed with salt,,cocktail,43,3.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,Cointreau,2,2,0.8,,1,Ingredient 2,Cointreau,All Day Cocktail,Margarita,glass rimmed with salt,,cocktail,43,3.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,White Rum,6,6,2.4,,1,Ingredient 1,White Rum,All Day Cocktail,Mary Pickford,,,cocktail (large),44,6,1,6,1,,,,,,shake & strain
+0.32,TRUE,Maraschino,1,1,0.32,,1,Ingredient 2,Maraschino,All Day Cocktail,Mary Pickford,,,cocktail (large),44,6,1,6,1,,,,,,shake & strain
+0.14,TRUE,Champagne,7.5,7.5,1.05,,1,Ingredient 1,Champagne,Sparkling Cocktail,Mimosa,,orange twist,flute,45,7.5,7.5,,,,,,,,stir
+0,FALSE,Fresh orange juice,7.5,,0,7.5,1,Ingredient 2,Fresh orange juice,Sparkling Cocktail,Mimosa,,orange twist,flute,45,7.5,7.5,,,,,,,,stir
+0.4,TRUE,Bourbon whiskey,6,6,2.4,,1,Ingredient 1,Bourbon Whiskey,Longdrink,Mint Julep,,mint spring,highball,46,6,4,1,2,,,,,,"muddle the mint, sugar and water. stir"
+0,FALSE,fresh mint sprigs,4,,0,4,1,Ingredient 2,Fresh mint sprigs,Longdrink,Mint Julep,,mint spring,highball,46,6,4,1,2,,,,,,"muddle the mint, sugar and water. stir"
+0.4,TRUE,White Cuban Rum,4,4,1.6,,1,Ingredient 1,White Cuban Rum,Longdrink,Mojito,Serve with straw.,spring of mint leaves and lemon slice.,highball,47,4,3,6,2,,,,,,"muddle lime, sugar and mint"
+0,FALSE,Fresh lime juice,3,,0,3,1,Ingredient 2,Fresh lime juice,Longdrink,Mojito,Serve with straw.,spring of mint leaves and lemon slice.,highball,47,4,3,6,2,,,,,,"muddle lime, sugar and mint"
+0.4,TRUE,Gin,5,5,2,,1,Ingredient 1,Gin,All Day Cocktail,Monkey Gland,,,cocktail,48,5,3,2,2,,,,,,shake & strain
+0,FALSE,Orange juice,3,,0,3,1,Ingredient 2,Orange juice,All Day Cocktail,Monkey Gland,,,cocktail,48,5,3,2,2,,,,,,shake & strain
+0.4,TRUE,Vodka,4.5,4.5,1.8,,1,Ingredient 1,Vodka,Longdrink,Moscow Mule,,lime slice,highball,49,4.5,12,0.5,1,,,,,,
+0,FALSE,Ginger Beer,12,,0,12,1,Ingredient 2,Ginger Beer,Longdrink,Moscow Mule,,lime slice,highball,49,4.5,12,0.5,1,,,,,,
+0.4,TRUE,Gin,3,3,1.2,,1,Ingredient 1,Gin,Before Dinner Cocktail,Negroni,,half orange slice,old-fashioned,50,3,3,3,,,,,,,stir
+0.15,TRUE,Campari,3,3,0.45,,1,Ingredient 2,Campari,Before Dinner Cocktail,Negroni,,half orange slice,old-fashioned,50,3,3,3,,,,,,,stir
+0.4,TRUE,Bourbon or Rye whiskey,4.5,4.5,1.8,,1,Ingredient 1,Bourbon or Rye Whiskey,Before Dinner Cocktail,Old Fashioned,,orange slice and a cocktail cherry,old-fashioned,51,4.5,2,1,,,,,,,"Disolve sugar with bitters and water,add rest."
+0,FALSE,Dashes Angostura Bitters,2,,0,2,1,Ingredient 2,Dashes Angostura Bitters,Before Dinner Cocktail,Old Fashioned,,orange slice and a cocktail cherry,old-fashioned,51,4.5,2,1,,,,,,,"Disolve sugar with bitters and water,add rest."
+0.4,TRUE,Gin,3.5,3.5,1.4,,1,Ingredient 1,Gin,All Day Cocktail,Paradise,,,cocktail,52,3.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,Apricot Brandy,2,2,0.8,,1,Ingredient 2,Apricot Brandy,All Day Cocktail,Paradise,,,cocktail,52,3.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,White Rum,3,3,1.2,,1,Ingredient 1,White Rum,Longdrink,Pina Colada,Serve with straw.,slice of pineapple with a cocktail cherry,large goblet or Hurricane,53,3,9,3,,,,,,,blend
+0,FALSE,Pineapple juice,9,,0,9,1,Ingredient 2,Pineapple juice,Longdrink,Pina Colada,Serve with straw.,slice of pineapple with a cocktail cherry,large goblet or Hurricane,53,3,9,3,,,,,,,blend
+0.4,TRUE,Pisco,4.5,4.5,1.8,,1,Ingredient 1,Pisco,All Day Cocktail,Pisco Sour,,Dash some Angostura bitters on top,champagne flute,54,4.5,3,2,1,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,3,,0,3,1,Ingredient 2,Fresh lemon juice,All Day Cocktail,Pisco Sour,,Dash some Angostura bitters on top,champagne flute,54,4.5,3,2,1,,,,,,shake & strain
+0.4,TRUE,Dark Rum,4.5,4.5,1.8,,1,Ingredient 1,Dark Rum,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+0,FALSE,Fresh orange juice,3.5,,0,3.5,1,Ingredient 2,Fresh orange juice,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+0.4,TRUE,Brandy,1.5,1.5,0.6,,1,Ingredient 1,Brandy,After Dinner Cocktail,Porto Flip,,fresh ground nutmeg,cocktail,56,1.5,4.5,1,,,,,,,shake & strain
+0.14,TRUE,Red Port,4.5,4.5,0.63,,1,Ingredient 2,Red Port,After Dinner Cocktail,Porto Flip,,fresh ground nutmeg,cocktail,56,1.5,4.5,1,,,,,,,shake & strain
+0.4,TRUE,Gin,4.5,4.5,1.8,,1,Ingredient 1,Gin,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+0,FALSE,Lime juice,1.5,,0,1.5,1,Ingredient 2,Lime juice,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+0.14,TRUE,Dry Vermouth,4,4,0.56,,1,Ingredient 1,Dry Vermouth,All Day Cocktail,Rose,,,cocktail,58,4,2,3,,,,,,,stir & strain
+0,FALSE,Kirsch,2,,0,2,1,Ingredient 2,Kirsch,All Day Cocktail,Rose,,,cocktail,58,4,2,3,,,,,,,stir & strain
+0.4,TRUE,Vodka,2.5,2.5,1,,1,Ingredient 1,Vodka,Sparkling Cocktail,Russian Spring Punch,top with sparkling wine,lemon slice and a blackberry,highball,59,2.5,2.5,1.5,1,,,,,,Shake
+0,FALSE,Fresh lemon juice,2.5,,0,2.5,1,Ingredient 2,Fresh lemon juice,Sparkling Cocktail,Russian Spring Punch,top with sparkling wine,lemon slice and a blackberry,highball,59,2.5,2.5,1.5,1,,,,,,Shake
+0.4,TRUE,Scotch,4.5,4.5,1.8,,1,Ingredient 1,Scotch,After Dinner Cocktail,Rusty Nail,,Lemon twist,old-fashioned,60,4.5,2.5,,,,,,,,Stir gently
+0,FALSE,Drambuie,2.5,,0,2.5,1,Ingredient 2,Drambuie,After Dinner Cocktail,Rusty Nail,,Lemon twist,old-fashioned,60,4.5,2.5,,,,,,,,Stir gently
+0.4,TRUE,Cognac,5,5,2,,1,Ingredient 1,Cognac,After Dinner Cocktail,Sazerac,,Lemon peel,old-fashioned,61,5,1,1,2,,,,,,stir & strain
+0.4,TRUE,Absinthe ( Rinse glass with then discard excess),1,1,0.4,,1,Ingredient 2,Absinthe (Rinse glass with then discard excess),After Dinner Cocktail,Sazerac,,Lemon peel,old-fashioned,61,5,1,1,2,,,,,,stir & strain
+0.4,TRUE,Vodka,5,5,2,,1,Ingredient 1,Vodka,All Day Cocktail,Screwdriver,,orange slice,highball,62,5,10,,,,,,,,stir
+0,FALSE,Orange juice,10,,0,10,1,Ingredient 2,Orange juice,All Day Cocktail,Screwdriver,,orange slice,highball,62,5,10,,,,,,,,stir
+0.4,TRUE,Vodka,4,4,1.6,,1,Ingredient 1,Vodka,Longdrink,Sea Breeze,,lime wedge,rock,63,4,12,3,,,,,,,pour (build)
+0,FALSE,Cranberry juice,12,,0,12,1,Ingredient 2,Cranberry juice,Longdrink,Sea Breeze,,lime wedge,rock,63,4,12,3,,,,,,,pour (build)
+0.4,TRUE,Vodka,4,4,1.6,,1,Ingredient 1,Vodka,Longdrink,Sex On The Beach,,orange slice,highball,64,4,2,4,4,,,,,,pour (build)
+0.4,TRUE,Peach schnapps,2,2,0.8,,1,Ingredient 2,Peach schnapps,Longdrink,Sex On The Beach,,orange slice,highball,64,4,2,4,4,,,,,,pour (build)
+0.4,TRUE,Cognac,5,5,2,,1,Ingredient 1,Cognac,All Day Cocktail,Sidecar,,,cocktail,65,5,2,2,,,,,,,shake & strain
+0.2,TRUE,Triple Sec,2,2,0.4,,1,Ingredient 2,Triple Sec,All Day Cocktail,Sidecar,,,cocktail,65,5,2,2,,,,,,,shake & strain
+0.4,TRUE,Gin,3,3,1.2,,1,Ingredient 1,Gin,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+0.25,TRUE,Cherry liqueur,1.5,1.5,0.375,,1,Ingredient 2,Cherry liqueur,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+0.14,TRUE,Prosecco,6,6,0.84,,1,Ingredient 1,Prosecco,Sparkling Cocktail,Spritz Veneziano,,half orange slice,old-fashioned,67,6,4,,,,,,,,pour (build)
+0.11,TRUE,Aperol,4,4,0.44,,1,Ingredient 2,Aperol,Sparkling Cocktail,Spritz Veneziano,,half orange slice,old-fashioned,67,6,4,,,,,,,,pour (build)
+0.4,TRUE,Cognac,5,5,2,,1,Ingredient 1,Cognac,After Dinner Cocktail,Stinger,,,cocktail,68,5,2,,,,,,,,stir & strain
+0.25,TRUE,Créme de Menthe (white),2,2,0.5,,1,Ingredient 2,Créme de Menthe (white),After Dinner Cocktail,Stinger,,,cocktail,68,5,2,,,,,,,,stir & strain
+0.4,TRUE,Tequila,4.5,4.5,1.8,,1,Ingredient 1,Tequila,Longdrink,Tequila Sunrise,,,highball,69,4.5,9,1.5,,,,,,,"pour, do not stir"
+0,FALSE,Orange juice,9,,0,9,1,Ingredient 2,Orange juice,Longdrink,Tequila Sunrise,,,highball,69,4.5,9,1.5,,,,,,,"pour, do not stir"
+0.4,TRUE,Tequila,4.5,4.5,1.8,,1,Ingredient 1,Tequila,All Day Cocktail,Tommy’s Margarita,,,cocktail,70,4.5,1.5,2,,,,,,,shake & strain
+0,FALSE,Freshly squeezed lime juice,1.5,,0,1.5,1,Ingredient 2,Freshly squeezed lime juice,All Day Cocktail,Tommy’s Margarita,,,cocktail,70,4.5,1.5,2,,,,,,,shake & strain
+0.4,TRUE,Old Tom Gin,3,3,1.2,,1,Ingredient 1,Old Tom Gin,All Day Cocktail,Tuxedo,,cocktail cherry and a lemon zest twist,cocktail,71,3,3,0.5,0.25,3,,,,,stir & strain
+0.14,TRUE,Dry Vermouth,3,3,0.42,,1,Ingredient 2,Dry Vermouth,All Day Cocktail,Tuxedo,,cocktail cherry and a lemon zest twist,cocktail,71,3,3,0.5,0.25,3,,,,,stir & strain
+0.4,TRUE,Tequila (silver),5,5,2,,1,Ingredient 1,Tequila (silver),All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+0,FALSE,Tomato juice,7,,0,7,1,Ingredient 2,Tomato juice,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+0.4,TRUE,Gin,6,6,2.4,,1,Ingredient 1,Gin,Before Dinner Cocktail,Vesper,,Lemon twist,cocktail,73,6,1.5,0.75,,,,,,,shake & strain
+0.4,TRUE,Vodka,1.5,1.5,0.6,,1,Ingredient 2,Vodka,Before Dinner Cocktail,Vesper,,Lemon twist,cocktail,73,6,1.5,0.75,,,,,,,shake & strain
+0.4,TRUE,Bourbon whiskey,4.5,4.5,1.8,,1,Ingredient 1,Bourbon Whiskey,Before Dinner Cocktail,Whiskey Sour,Foam up dash egg white,half orange slice and maraschino cherry,cocktail,74,4.5,3,1.5,,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,3,,0,3,1,Ingredient 2,Fresh lemon juice,Before Dinner Cocktail,Whiskey Sour,Foam up dash egg white,half orange slice and maraschino cherry,cocktail,74,4.5,3,1.5,,,,,,,shake & strain
+0.4,TRUE,Gin,4,4,1.6,,1,Ingredient 1,Gin,All Day Cocktail,White Lady,,,cocktail (large),75,4,3,2,,,,,,,shake & strain
+0.2,TRUE,Triple Sec,3,3,0.6,,1,Ingredient 2,Triple Sec,All Day Cocktail,White Lady,,,cocktail (large),75,4,3,2,,,,,,,shake & strain
+0.4,TRUE,White Rum,3,3,1.2,,1,Ingredient 1,White Rum,All Day Cocktail,Yellow Bird,,,cocktail,76,3,1.5,1.5,1.5,,,,,,shake & strain
+0.3,TRUE,Galliano,1.5,1.5,0.45,,1,Ingredient 2,Galliano,All Day Cocktail,Yellow Bird,,,cocktail,76,3,1.5,1.5,1.5,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0.2,TRUE,Triple Sec,3,3,0.6,,1,Ingredient 3,Triple Sec,All Day Cocktail,Between The Sheets,,,cocktail,8,3,3,3,2,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 3,Fresh lemon juice,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+0,FALSE,Sugar syrup,1,,0,1,1,Ingredient 3,Sugar syrup,All Day Cocktail,Bramble,,"lemon slice, and two blackberries",rock,11,4,1.5,1,1.5,,,,,,stir
+0,FALSE,fresh lime cut into 4 wedges,0.5,,0,0.5,1,Ingredient 3,Fresh lime cut into 4 wedges,All Day Cocktail,Caipirinha,,,old-fashioned,12,0.5,2,0.5,,,,,,,muddle
+0,FALSE,Orange Bitters,1,,0,1,1,Ingredient 3,Orange Bitters,All Day Cocktail,Casino,,lemon twist and a maraschino cherry,cocktail,13,4,1,1,1,,,,,,shake & strain
+0,FALSE,dashes Angostura Bitters (add on sugar cube),2,,0,2,1,Ingredient 3,Angostura Bitters (add on sugar cube),Sparkling Cocktail,Champagne Cocktail,,orange slice and maraschino cherry.,champagne flute,14,9,1,2,1,,,,,,
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 3,Fresh lemon juice,All Day Cocktail,Clover Club,,,cocktail,15,4.5,1.5,1.5,,,,,,,shake & strain
+0,FALSE,Fresh lime juice,1.5,,0,1.5,1,Ingredient 3,Fresh lime juice,All Day Cocktail,Cosmopolitan,,lime slice,cocktail (large),16,4,1.5,1.5,3,,,,,,shake & strain
+0,FALSE,Fresh lime juice,1,,0,1,1,Ingredient 3,Fresh lime juice,Longdrink,Cuba Libre,,lime wedge,highball,17,5,12,1,,,,,,,
+0,FALSE,Simple syrup,1.5,,0,1.5,1,Ingredient 3,Simple syrup,Before Dinner Cocktail,Daiquiri,,,cocktail,18,4.5,2.5,1.5,,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh mint leafs,2,,0,2,1,Ingredient 3,Fresh mint leafs,All Day Cocktail,Derby,,fresh mint leaves,cocktail,20,6,2,2,,,,,,,stir & strain
+0,FALSE,Olive juice,1,,0,1,1,Ingredient 3,Olive juice,Before Dinner Cocktail,Dirty Martini,,green olive,Martini glass,21,6,1,1,,,,,,,stir & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Sugar syrup,,,,,1,Ingredient 3,Sugar syrup,After Dinner Cocktail,Espresso Martini,,,cocktail,23,5,1,,1,,,,,,shake & strain
+0,FALSE,dashes Sugar syrup,2,,0,2,1,Ingredient 3,Dashes sugar syrup,Sparkling Cocktail,French 75,,,champagne flute,24,3,1.5,2,6,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh pineapple juice,1.5,,0,1.5,1,Ingredient 3,Fresh pineapple juice,Before Dinner Cocktail,French Martini,,Squeeze oil from lemon peel,cocktail,26,4.5,1.5,1.5,,,,,,,stir & strain
+0,FALSE,Sugar syrup,1,,0,1,1,Ingredient 3,Sugar syrup,Longdrink,Gin Fizz,,lemon slice,tumbler,27,4.5,3,1,8,,,,,,Shake
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh orange juice,2,,0,2,1,Ingredient 3,Fresh Orange juice,After Dinner Cocktail,Golden Dream,,,cocktail,30,2,2,2,1,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Orange juice,9,,0,9,1,Ingredient 3,Orange juice,All Day Cocktail,Harvey Wallbanger,,orange slices and cherry,highball,32,4.5,1.5,9,,,,,,,stir
+0.32,TRUE,Maraschino,1.5,1.5,0.48,,1,Ingredient 3,Maraschino,All Day Cocktail,Hemingway Special,,,double cocktail,33,6,4,1.5,1.5,,,,,,shake & strain
+0,FALSE,Dash of Angostura bitters (optional),,,,,1,Ingredient 3,Dash of Angostura bitters (optional),Longdrink,Horse’s Neck,add dashes of Angostura bitters,rind of one lemon spiral,highball,34,4,12,,,,,,,,stir
+0,FALSE,Fresh cream (float on top),3,,0,3,1,Ingredient 3,Fresh cream (float on top),Hot Drink,Irish Coffee,,,coffee mug,35,4,9,3,1,,,,,,warm & pour
+0,FALSE,Sugar syrup,1.5,,0,1.5,1,Ingredient 3,Sugar syrup,Longdrink,John Collins,dash of Angostura bitters,lemon slice and maraschino cherry,highball glass,36,4.5,3,1.5,6,,,,,,stir
+0,FALSE,Fresh lime juice,3,,0,3,1,Ingredient 3,Fresh lime juice,All Day Cocktail,Kamikaze,,,cocktail,37,3,3,3,,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 3,Fresh lemon juice,All Day Cocktail,Lemon Drop Martini,glass rimmed with suga,slice of lemon,cocktail,39,2.5,2,1.5,,,,,,,shake & strain
+0.4,TRUE,White Rum,1.5,1.5,0.6,,1,Ingredient 3,White Rum,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+0.24,TRUE,Orange Curaćao,1.5,1.5,0.36,,1,Ingredient 3,Orange Curaćao,Longdrink,Mai-Tai,Serve with straw.,"pineapple spear, mint leaves and lime peel",highball,41,4,2,1.5,1.5,1,,,,,shake & strain
+0,FALSE,dash Angostura Bitters,1,,0,1,1,Ingredient 3,Angostura Bitters,Before Dinner Cocktail,Manhattan,,cocktail cherry,cocktail,42,5,2,1,,,,,,,shake & strain
+0,FALSE,Freshly squeezed lime juice,1.5,,0,1.5,1,Ingredient 3,Freshly squeezed lime juice,All Day Cocktail,Margarita,glass rimmed with salt,,cocktail,43,3.5,2,1.5,,,,,,,shake & strain
+0,FALSE,Fresh pineapple juice,6,,0,6,1,Ingredient 3,Fresh pineapple juice,All Day Cocktail,Mary Pickford,,,cocktail (large),44,6,1,6,1,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,teaspoon powdered sugar,1,,0,1,1,Ingredient 3,Teaspoon powdered sugar,Longdrink,Mint Julep,,mint spring,highball,46,6,4,1,2,,,,,,"muddle the mint, sugar and water. stir"
+0,FALSE,Mint springs,6,,0,6,1,Ingredient 3,Mint springs,Longdrink,Mojito,Serve with straw.,spring of mint leaves and lemon slice.,highball,47,4,3,6,2,,,,,,"muddle lime, sugar and mint"
+0.4,TRUE,drops Absinth,2,2,0.8,,1,Ingredient 3, Absinth,All Day Cocktail,Monkey Gland,,,cocktail,48,5,3,2,2,,,,,,shake & strain
+0,FALSE,Fresh lime juice,0.5,,0,0.5,1,Ingredient 3,Fresh lime juice,Longdrink,Moscow Mule,,lime slice,highball,49,4.5,12,0.5,1,,,,,,
+0.14,TRUE,Sweet Red Vermouth,3,3,0.42,,1,Ingredient 3,Sweet Red Vermouth,Before Dinner Cocktail,Negroni,,half orange slice,old-fashioned,50,3,3,3,,,,,,,stir
+0,FALSE,sugar cube,1,,0,1,1,Ingredient 3,Sugar cube,Before Dinner Cocktail,Old Fashioned,,orange slice and a cocktail cherry,old-fashioned,51,4.5,2,1,,,,,,,"Disolve sugar with bitters and water,add rest."
+0,FALSE,Orange juice,1.5,,0,1.5,1,Ingredient 3,Orange juice,All Day Cocktail,Paradise,,,cocktail,52,3.5,2,1.5,,,,,,,shake & strain
+0,FALSE,Coconut milk,3,,0,3,1,Ingredient 3,Coconut milk,Longdrink,Pina Colada,Serve with straw.,slice of pineapple with a cocktail cherry,large goblet or Hurricane,53,3,9,3,,,,,,,blend
+0,FALSE,Sugar syrup,2,,0,2,1,Ingredient 3,Sugar syrup,All Day Cocktail,Pisco Sour,,Dash some Angostura bitters on top,champagne flute,54,4.5,3,2,1,,,,,,shake & strain
+0,FALSE,Fresh pineapple juice,3.5,,0,3.5,1,Ingredient 3,Fresh pineapple juice,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+0,FALSE,Egg yolk,1,,0,1,1,Ingredient 3,Egg yolk,After Dinner Cocktail,Porto Flip,,fresh ground nutmeg,cocktail,56,1.5,4.5,1,,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,1.5,,0,1.5,1,Ingredient 3,Fresh lemon juice,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+0,FALSE,dashes Strawberry syrup,3,,0,3,1,Ingredient 3,Strawberry syrup,All Day Cocktail,Rose,,,cocktail,58,4,2,3,,,,,,,stir & strain
+0.2,TRUE,Créme de Cassis,1.5,1.5,0.3,,1,Ingredient 3,Créme de Cassis,Sparkling Cocktail,Russian Spring Punch,top with sparkling wine,lemon slice and a blackberry,highball,59,2.5,2.5,1.5,1,,,,,,Shake
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,sugar cube,1,,0,1,1,Ingredient 3,Sugar cube,After Dinner Cocktail,Sazerac,,Lemon peel,old-fashioned,61,5,1,1,2,,,,,,stir & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Grapefruit juice,3,,0,3,1,Ingredient 3,Grapefruit juice,Longdrink,Sea Breeze,,lime wedge,rock,63,4,12,3,,,,,,,pour (build)
+0,FALSE,Cranberry juice,4,,0,4,1,Ingredient 3,Cranberry juice,Longdrink,Sex On The Beach,,orange slice,highball,64,4,2,4,4,,,,,,pour (build)
+0,FALSE,Fresh lemon juice,2,,0,2,1,Ingredient 3,Fresh lemon juice,All Day Cocktail,Sidecar,,,cocktail,65,5,2,2,,,,,,,shake & strain
+0.4,TRUE,Cointreau,0.75,0.75,0.3,,1,Ingredient 3,Cointreau,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+0,FALSE,Splash of Soda water (top with),,,,,1,Ingredient 3,Splash of Soda water (top with),Sparkling Cocktail,Spritz Veneziano,,half orange slice,old-fashioned,67,6,4,,,,,,,,pour (build)
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Grenadine (add in the end),1.5,,0,1.5,1,Ingredient 3,Grenadine (add in the end),Longdrink,Tequila Sunrise,,,highball,69,4.5,9,1.5,,,,,,,"pour, do not stir"
+0,FALSE,bar spoons of Agave nectar,2,,0,2,1,Ingredient 3,Bar spoons of agave nectar,All Day Cocktail,Tommy’s Margarita,,,cocktail,70,4.5,1.5,2,,,,,,,shake & strain
+0,FALSE,bar spoon Maraschino,0.5,,0,0.5,1,Ingredient 3,Bar spoon Maraschino,All Day Cocktail,Tuxedo,,cocktail cherry and a lemon zest twist,cocktail,71,3,3,0.5,0.25,3,,,,,stir & strain
+0,FALSE,Fresh orange juice,3,,0,3,1,Ingredient 3,Fresh Orange juice,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+0,FALSE,Lillet Blonde,0.75,,0,0.75,1,Ingredient 3,Lillet Blonde,Before Dinner Cocktail,Vesper,,Lemon twist,cocktail,73,6,1.5,0.75,,,,,,,shake & strain
+0,FALSE,Sugar syrup,1.5,,0,1.5,1,Ingredient 3,Sugar syrup,Before Dinner Cocktail,Whiskey Sour,Foam up dash egg white,half orange slice and maraschino cherry,cocktail,74,4.5,3,1.5,,,,,,,shake & strain
+0,FALSE,Fresh lemon juice,2,,0,2,1,Ingredient 3,Fresh lemon juice,All Day Cocktail,White Lady,,,cocktail (large),75,4,3,2,,,,,,,shake & strain
+0.2,TRUE,Triple Sec,1.5,1.5,0.3,,1,Ingredient 3,Triple Sec,All Day Cocktail,Yellow Bird,,,cocktail,76,3,1.5,1.5,1.5,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Gomme syrup,3,,0,3,1,Ingredient 7,Gomme syrup,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,dashes Angostura bitters (add in the end on top),3.5,,0,3.5,1,Ingredient 7,Angostura bitters (add in the end on top),Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,3,,,,1,Ingredient 7,Orange flower water,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Grenadine,1,,0,1,1,Ingredient 7,Grenadine,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Few slices fresh red hot chili peppers,,,,,1,Ingredient 7,Few slices fresh red hot chili peppers,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Soda water (to top off with),,,,,1,Ingredient 9,Soda water (to top off with),Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Salt,,,,,1,Ingredient 9,Salt,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,dash Fresh lime juice,1,,0,1,1,Ingredient 4,Dash fresh lime juice,Sparkling Cocktail,Barracuda,,,cocktail,6,4.5,1.5,6,1,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,2,,0,2,1,Ingredient 4,Fresh lemon juice,All Day Cocktail,Between The Sheets,,,cocktail,8,3,3,3,2,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,to 3 dashes of Worcestershire Sauce,2,,0,2,1,Ingredient 4,3 dashes of Worcestershire Sauce,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,1,,0,1,1,Ingredient 4,Fresh lemon juice,All Day Cocktail,Casino,,lemon twist and a maraschino cherry,cocktail,13,4,1,1,1,,,,,,shake & strain
+0,FALSE,sugar cube,1,,0,1,1,Ingredient 4,Sugar cube,Sparkling Cocktail,Champagne Cocktail,,orange slice and maraschino cherry.,champagne flute,14,9,1,2,1,,,,,,
+0,FALSE,Few drops of Egg White,,,,,1,Ingredient 4,Few drops of egg white,All Day Cocktail,Clover Club,,,cocktail,15,4.5,1.5,1.5,,,,,,,shake & strain
+0,FALSE,Cranberry juice,3,,0,3,1,Ingredient 4,Cranberry juice,All Day Cocktail,Cosmopolitan,,lime slice,cocktail (large),16,4,1.5,1.5,3,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,short strong Espresso,1,,0,1,1,Ingredient 4,Short strong espresso,After Dinner Cocktail,Espresso Martini,,,cocktail,23,5,1,,1,,,,,,shake & strain
+0.14,TRUE,"Champagne (top up with, stir)",6,6,0.84,,1,Ingredient 4,"Champagne (top up with, stir)",Sparkling Cocktail,French 75,,,champagne flute,24,3,1.5,2,6,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh Cream,1,,0,1,1,Ingredient 4,Fresh cream,After Dinner Cocktail,Golden Dream,,,cocktail,30,2,2,2,1,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lime juice,1.5,,0,1.5,1,Ingredient 4,Fresh lime juice,All Day Cocktail,Hemingway Special,,,double cocktail,33,6,4,1.5,1.5,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,teaspoon of brown sugar,1,,0,1,1,Ingredient 4,Teaspoon of brown sugar,Hot Drink,Irish Coffee,,,coffee mug,35,4,9,3,1,,,,,,warm & pour
+0,FALSE,Soda water,6,,0,6,1,Ingredient 4,Soda water,Longdrink,John Collins,dash of Angostura bitters,lemon slice and maraschino cherry,highball glass,36,4.5,3,1.5,6,,,,,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0.2,TRUE,Triple Sec,1.5,1.5,0.3,,1,Ingredient 4,Triple sec,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+0,FALSE,Orgeat syrup,1.5,,0,1.5,1,Ingredient 4,Orgeat syrup,Longdrink,Mai-Tai,Serve with straw.,"pineapple spear, mint leaves and lime peel",highball,41,4,2,1.5,1.5,1,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,teaspoons white sugar,2,,0,2,1,Ingredient 4,Teaspoons white sugar,Longdrink,Mojito,Serve with straw.,spring of mint leaves and lemon slice.,highball,47,4,3,6,2,,,,,,"muddle lime, sugar and mint"
+0,FALSE,drops Grenadine,2,,0,2,1,Ingredient 4,Grenadine,All Day Cocktail,Monkey Gland,,,cocktail,48,5,3,2,2,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,2,,0,2,1,Ingredient 4,Fresh lemon juice,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Sugar syrup,3,,0,3,1,Ingredient 4,Sugar syrup,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Sugar syrup,1,,0,1,1,Ingredient 4,Sugar syrup,Sparkling Cocktail,Russian Spring Punch,top with sparkling wine,lemon slice and a blackberry,highball,59,2.5,2.5,1.5,1,,,,,,Shake
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,dashes Peychaud’s bitters,2,,0,2,1,Ingredient 4,Peychaud’s bitters,After Dinner Cocktail,Sazerac,,Lemon peel,old-fashioned,61,5,1,1,2,,,,,,stir & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Orange juice,4,,0,4,1,Ingredient 4,Orange juice,Longdrink,Sex On The Beach,,orange slice,highball,64,4,2,4,4,,,,,,pour (build)
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,DOM Bénédictine,0.75,,0,0.75,1,Ingredient 4,DOM Bénédictine,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0.4,TRUE,bar spoon Absinthe,0.25,0.25,0.1,,1,Ingredient 4,Bar spoon Absinthe,All Day Cocktail,Tuxedo,,cocktail cherry and a lemon zest twist,cocktail,71,3,3,0.5,0.25,3,,,,,stir & strain
+0,FALSE,Fresh lime juice,1,,0,1,1,Ingredient 4,Fresh lime juice,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+0,FALSE,Lemon twist (garnish),,,,,1,Ingredient 4,Lemon twist (garnish),Before Dinner Cocktail,Vesper,,Lemon twist,cocktail,73,6,1.5,0.75,,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Lime juice,1.5,,0,1.5,1,Ingredient 4,Lime juice,All Day Cocktail,Yellow Bird,,,cocktail,76,3,1.5,1.5,1.5,,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0.14,TRUE,Top with Prosecco,,,,,1,Ingredient 5,Top with prosecco,Sparkling Cocktail,Barracuda,,,cocktail,6,4.5,1.5,6,1,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Tabasco,,,,,1,Ingredient 5,Tabasco,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0.4,TRUE,Gin,1.5,1.5,0.6,,1,Ingredient 5,Gin,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+0,FALSE,Fresh lime juice,1,,0,1,1,Ingredient 5,Fresh lime juice,Longdrink,Mai-Tai,Serve with straw.,"pineapple spear, mint leaves and lime peel",highball,41,4,2,1.5,1.5,1,,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Soda water,,,,,1,Ingredient 5,Soda water,Longdrink,Mojito,Serve with straw.,spring of mint leaves and lemon slice.,highball,47,4,3,6,2,,,,,,"muddle lime, sugar and mint"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Grenadine,1,,0,1,1,Ingredient 5,Grenadine,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Cream,6,,0,6,1,Ingredient 5,Cream,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Pineapple juice,12,,0,12,1,Ingredient 5,Pineapple juice,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,dashes Orange Bitters,3,,0,3,1,Ingredient 5,Dashes orange bitters,All Day Cocktail,Tuxedo,,cocktail cherry and a lemon zest twist,cocktail,71,3,3,0.5,0.25,3,,,,,stir & strain
+0,FALSE,teaspoon clear honey,1,,0,1,1,Ingredient 5,Teaspoon clear honey,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Celery salt,,,,,1,Ingredient 6,Celery salt,Longdrink,Bloody Mary,,elery and lemon wedge,highball,10,4.5,9,1.5,2,,,,,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Fresh lemon juice,2.5,,0,2.5,1,Ingredient 6,Fresh lemon juice,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Sugar syrup,1,,0,1,1,Ingredient 6,Sugar syrup,Longdrink,Planter's Punch,,cocktail cherry and pineapple,large glass,55,4.5,3.5,3.5,2,1,1,3.5,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Egg white,1,,0,1,1,Ingredient 6,Egg white,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Lime juice,1.5,,0,1.5,1,Ingredient 6,Lime juice,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,slice onion finely chopped,0.5,,0,0.5,1,Ingredient 6,Slice onion finely chopped,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Dash of Cola,1,,0,1,1,Ingredient 8,Dash of Cola,Longdrink,Long Island Iced Tea,Serve with straw.,lemon spiral,highball,40,1.5,1.5,1.5,1.5,1.5,2.5,3,1,,stir
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,drops Vanilla extract,,,,,1,Ingredient 8,Drops vanilla extract,Longdrink,Ramos Fizz,,,highball,57,4.5,1.5,1.5,3,6,1,3,,,"dry shake, hard shake & strain"
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,dash Angostura Bitters,1,,0,1,1,Ingredient 8,Angostura Bitters,Longdrink,Singapore Sling,,cocktail cherry and pineapple,highball,66,3,1.5,0.75,0.75,12,1.5,1,1,,shake & strain
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+0,FALSE,Few drops Worchestershire sauce,,,,,1,Ingredient 8,Few drops Worchestershire sauce,All Day Cocktail,Vampiro,,wedge of lime and a chili,highball,72,5,7,3,1,1,0.5,,,,shake & strain

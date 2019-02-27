@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="name" content="Concept Map" />
+	<meta name="description" content="An abstract mapping for parameters. Works best if first tag is 'unique' among the tracklist, and the second tag applies to multiple tracks"/>
+	<meta name="mintags" content="2" />
+	<meta name="maxtags" content="2" />
+	<title>Cocktail Concept Network</title>
+
+<style>
+
+/* Style the header */
+.header {
+  background-color: #ccebc5;
+  padding: 20px;
+  text-align: center;
+}
+
+#filters {
+  font: 12px sans-serif;
+}
+
+svg {
+    font: 12px sans-serif;
+}
+
+text {
+    pointer-events: none;
+}
+
+.inner_node rect {
+    pointer-events: all;
+}
+
+.inner_node rect.highlight {
+    stroke: #315B7E;
+    stroke-width: 2px;
+}
+
+.outer_node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+    pointer-events: all;
+}
+
+.outer_node circle.highlight
+{
+    stroke: #315B7E;
+    stroke-width: 2px;
+}
+
+.link {
+    fill: none;
+}
+
+/* Left and right column */
+.column.side {
+  float: left;
+  width: 10%;
+}
+
+/* Middle column */
+.column.main {
+  float: right;
+  width: 90%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>	
+</head>
+<body>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="concept.js"></script>
+<div id="concept_network"> </div>
+
+</body>
