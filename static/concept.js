@@ -23,7 +23,7 @@ var color_dict = {
 }
 
 drink_types = new Set([]);
-d3.csv("cocktail.csv", function (data) {
+d3.csv("static/cocktail.csv", function (data) {
 
   // go over the data row-by-row.
   data.forEach(function (d) {
