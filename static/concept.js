@@ -22,15 +22,15 @@ var color_dict = {
   "After Dinner": colors[6]
 };
 
-// display the legend.
-drink_types = new Set([]);
 d3.csv("static/cocktail.csv", function (data) {
 
   // go over the data row-by-row.
   data.forEach(function (d) {
 
-    // each row will be a dictiornary with key = column name, and
+    // each row will be a dictionary with key = column name, and
     // value = corresponding value at the row index.
+    // For example:
+    // d = { 'Cocktail Name': 'Margherita', 'All Ingredients' : 'Tequila', ... }
     
     // extract only relevant data.
     name = d["Cocktail Name"];
@@ -42,6 +42,11 @@ d3.csv("static/cocktail.csv", function (data) {
 
     // add the data only if both name and ingredient are valid.
     if (name != "" && ingredient != "") {
+      // - if encountering the cocktail name for the first time, initialize it as an 
+      //   object with key = cocktail name and value = a dictionary containing the 
+      //   "drink type" and an array of ingredients.
+      // - if encoutering the same cocktail name in subsequent iterations, simply
+      //   append the new ingredient to the ingredient list.
       if (name in cocktail) {
         cocktail[name]["ingredients"].push(ingredient);
       } 
@@ -49,46 +54,74 @@ d3.csv("static/cocktail.csv", function (data) {
         cocktail[name] = { type: drink_type, ingredients: [ingredient] };
       }
     }
-
-    // construct filtering dictionary.
-    drink_types.add(drink_type);
   });
 
-  // transform the data into a useful representation
-  // 1 is inner, 2, is outer
+  /*
+    Transform the cocktail data into a "network" representation containing the 
+    following:
 
-  // need: inner, outer, links
-  //
-  // inner: 
-  // links: { inner: outer: }
-  var outer = d3.map();
+    - An array of "inner" nodes which represent the cocktail name and appear in the
+      center of the graph as rectangles. It has an array of related "links" and 
+      an array of related "outer" nodes.
+    - An array of "outer" nodes which represent ingredients, and appear in the outer
+      circle of the graph. It has an array of related "links" and an array of related
+      "inner" nodes.
+    - An array of "links" each reprensenting a relationship between an inner node to 
+      an outer node.
+   */
+  var outer = d3.map(); // outer needs a map because ingredients may be repeated.
   var inner = [];
   var links = [];
   var outerId = [0];
+
+  // iterate over the cocktail object keys and values ...
   for (const [key, value] of Object.entries(cocktail)) {
 
-    i = { id: 'i' + inner.length, name: key, related_links: [], type: value["type"] };
+    // create an inner node ...
+    i = { 
+      id: 'i' + inner.length,  // unique ID.
+      name: key,               // cocktail name (displayed in the rectangle).
+      related_links: [],       // related links (inner <-> outer).
+      type: value["type"]      // drink type (used to determine color).
+    };
+    // for each inner node add itself as a related node.
     i.related_nodes = [i.id];
+    // add this inner node to the "inner" list.
     inner.push(i);
     
+    // iterate over all the ingredients. 
+    // -- ingredients need special handling because they can be repeated across 
+    //    multiple cocktail names.
     value["ingredients"].forEach(function(d1) {
       
+      // if this ingredient already exists in the "outer" node map, then get it
+      // and use it.
       o = outer.get(d1);
-      
-      if (o == null)
-      {
-        o = { name: d1,	id: 'o' + outerId[0], related_links: [] };
+      if (o == null) {
+        // if we never encountered this ingredient before, we need to initialize it.
+        o = { 
+          name: d1,	              // ingredient name (will be displayed)
+          id: 'o' + outerId[0],   // unique ID ("o" + outer node index).
+          related_links: []       // a list of related links.
+        };
+        // for each outer node, add itself as a related node.
         o.related_nodes = [o.id];
+        // keep track of the number of outer nodes (so we can use it as unique ID).
         outerId[0] = outerId[0] + 1;	
         
+        // add it to the outer node list.
         outer.set(d1, o);
       }
       
       // create the links
-      l = { id: 'l-' + i.id + '-' + o.id, inner: i, outer: o }
+      l = { 
+        id: 'l-' + i.id + '-' + o.id,  // unique ID "i-" + i's id + "-" o's id.
+        inner: i,                      // related inner node.
+        outer: o                       // related outer node.
+      };
       links.push(l);
       
-      // and the relationships
+      // add the relationships between all inner and outer nodes.
       i.related_nodes.push(o.id);
       i.related_links.push(l.id);
       o.related_nodes.push(i.id);
@@ -96,6 +129,7 @@ d3.csv("static/cocktail.csv", function (data) {
     });
   }
 
+  // create the graph.
   graph = {
     inner: inner,
     outer: outer.values(),
@@ -121,7 +155,6 @@ d3.csv("static/cocktail.csv", function (data) {
   });
 
   display_cocktail(cocktail);
-  // display_filters();
 });
 
 function display_cocktail(cocktail) {
