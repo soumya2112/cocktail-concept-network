@@ -9,19 +9,20 @@ var display_params = {
 };
 
 // from d3 colorbrewer: 
-var colors = ['#8dd3c7','#bebada','#fb8072','#80b1d3','#fdb462','#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f'];
+// var colors = ['#8dd3c7','#bebada','#fb8072','#80b1d3','#fdb462','#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f'];
+var colors = ['#8dd3c7','#bebada','#fb8072','#dd1c77','#fdb462','#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f'];
+// var colors = ['#bdbdbd','#3182bd','#3994c7','#dd1c77','#3182bd','#e34a33','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f'];
 var color_dict = {
   "After Dinner Cocktail": colors[0],
   "Before Dinner Cocktail": colors[1],
   "All Day Cocktail": colors[2],
-  "All Day Cocktail": colors[3],
-  "Sparkling Cocktail": colors[4],
-  "Longdrink": colors[5],
-  "Hot Drink": colors[6],
-  "Unspecified": colors[7],
-  "After Dinner": colors[8]
-}
+  "Sparkling Cocktail": colors[3],
+  "Longdrink": colors[4],
+  "Hot Drink": colors[5],
+  "After Dinner": colors[6]
+};
 
+// display the legend.
 drink_types = new Set([]);
 d3.csv("static/cocktail.csv", function (data) {
 
@@ -264,9 +265,22 @@ function display_cocktail(cocktail) {
       .attr("transform", "translate(" + rect_width/2 + ", " + rect_height * .75 + ")")
       .text(function(d) { return d.name; });
 
-  // need to specify x/y/etc
-
   d3.select(self.frameElement).style("height", canvas_size - 150 + "px");
+
+  legend_rows = d3.select('#legend_table').
+    append('tbody').
+    selectAll('tr').
+    data(d3.entries(color_dict)).enter().
+    append('tr')
+
+  legend_rows.selectAll('td')
+    .data((d) => { return [d.value, d.key]; })
+    .enter()
+    .append('td')
+    .attr('bgcolor', (d, i) => { if (i === 0) return d; else return null; })
+    .attr('width', (d, i) => { if (i === 0) return "20px"; else return null; })
+    .text((d, i) => { if (i === 1) return d; else return ""; });
+
 }
 
 

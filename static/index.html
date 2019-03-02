@@ -20,6 +20,16 @@
   font: 12px sans-serif;
 }
 
+#legend_table {
+  font: 14px sans-serif;
+  /* border-collapse: collapse; */
+  /* border: 1px solid black; */
+}
+
+#legend_table, th, td {
+  /* border: 1px solid black; */
+}
+
 svg {
     font: 12px sans-serif;
 }
@@ -54,16 +64,23 @@ text {
     fill: none;
 }
 
-/* Left and right column */
-.column.side {
+.column {
   float: left;
+}
+
+/* Left and right column */
+.column.left {
   width: 10%;
 }
 
 /* Middle column */
 .column.main {
-  float: right;
-  width: 90%;
+  width: 80%;
+}
+
+/* Left and right column */
+.column.right {
+  width: 10%;
 }
 
 /* Clear floats after the columns */
@@ -78,6 +95,17 @@ text {
 <body>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script src="static/concept.js"></script>
-<div id="concept_network"> </div>
+<div class="header">
+  <h1>Cocktail Concept Network</h1>
+</div>
+<div class="column left">
+  <table id="legend_table">
+  </table>
+</div>
+<div class="column main" id="concept_network"> </div>
+<div class="column right">
+  <table id="details_table">
+  </table>
+</div>
 
 </body>
